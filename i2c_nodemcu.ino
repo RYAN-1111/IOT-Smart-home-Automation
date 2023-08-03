@@ -4,7 +4,7 @@
 #include <DHT.h>
 
 
-char auth[] = "QJ3sOarWRIVwVOdvN1FYs0P01EGsg4Wj";//Enter your Auth token
+char auth[] = "";//Enter your Auth token
 char ssid[] = "i13";//Enter your WIFI name
 char pass[] = "12345678";//Enter your WIFI password
 
